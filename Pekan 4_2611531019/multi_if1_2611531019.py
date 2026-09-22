@@ -9,7 +9,7 @@ sim_1019 = input("Apakah Anda Sudah Punya Sim C (y/t): ")[0]
 if umur_1019 >= 17 and sim_1019 == 'y':
     print("Anda Sudah Dewasa dan boleh bawa motor")
 
-if umur_1019 >= 17 and sim_1019 == 'y':
+if umur_1019 >= 17 and sim_1019 == 't':
     print("Anda Sudah Dewasa tetapi tidak boleh bawa motor")
 
 if umur_1019 < 17 and sim_1019 == 'y':
