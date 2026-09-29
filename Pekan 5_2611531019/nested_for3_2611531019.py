@@ -4,7 +4,7 @@
 # Program ini menggunakan fungsi input()
 
 batas_1019 = int(input("Masukkan nilai batas: "))
-for i in range(batas_1019+1):
-    for j in range(batas_1019+1):
-        print(i+j, end=" ")
+for i_1019 in range(batas_1019 + 1):
+    for j_1019 in range(batas_1019 + 1):
+        print(i_1019 + j_1019, end=" ")
     print() # pindah ke baris berikutnya
