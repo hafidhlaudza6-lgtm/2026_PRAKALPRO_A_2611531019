@@ -20,7 +20,7 @@ for baris_1019 in range(n_1019, 0, -1):
         if angka_mundur_1019 > 1:
             print(" ", end="")
             
-    print("*", end="")
+    print(" *", end="")
     
     print(" ", end="")
     for angka_maju_1019 in range(1, baris_1019 + 1):
@@ -59,7 +59,7 @@ for baris_bawah_1019 in range(1, n_1019 + 1):
         if angka_mundur_b_1019 > 1:
             print(" ", end="")
             
-    print("*", end="")
+    print(" *", end="")
     
     print(" ", end="")
     for angka_maju_b_1019 in range(1, baris_bawah_1019 + 1):
