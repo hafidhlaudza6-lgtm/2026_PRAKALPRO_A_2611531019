@@ -1,8 +1,8 @@
-stock = 7
-sold = 0
+stock_1019 = 7
+sold_1019 = 0
 
-while stock >= 2:
-    stock -= 2
-    sold += 2
+while stock_1019 >= 2:
+    stock_1019 -= 2
+    sold_1019 += 2
 
-print("sold:", sold, "left:", stock)
+print("sold:", sold_1019, "left:", stock_1019)
